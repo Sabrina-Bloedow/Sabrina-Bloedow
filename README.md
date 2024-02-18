@@ -5,17 +5,17 @@
 <br>
 <br>
 
-<div>  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Bloedow&layout=compact&hide_border=true&title_color=B2D4EB&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-##
 <div style="display: inline_block"><br>
   <img align="center" alt="bina-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bina-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bina-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bina-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bina-Figma" height="60" width="80" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+</div>
+
+##
+<div>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Bloedow&layout=compact&hide_border=true&title_color=B2D4EB&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ##
